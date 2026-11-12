@@ -1,5 +1,0 @@
-XGBoost — Evaluation Results
-========================================
-Accuracy  : 0.8079
-F1-Score  : 0.8074
-ROC-AUC   : 0.9096
